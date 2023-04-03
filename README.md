@@ -12,4 +12,4 @@ This repository contains code, data, and other related resources of our paper ["
 - compute_consistency_score-TruthfulQA.ipynb - computes consistency score for questions and paraphrases (with outputs gebnerated from all the models used).
 
 ### Data
-- truthful_qa_top_6_by_pp.csv - top 6 paraphrases generated for randomly sampled questions from [TruthfulQA](https://huggingface.co/datasets/truthful_qa) dataset.
+- truthfulQA_alldata.csv - 6 paraphrases generated for a set randomly sampled questions (10%) from [TruthfulQA](https://huggingface.co/datasets/truthful_qa) dataset.
