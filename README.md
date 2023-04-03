@@ -1,4 +1,4 @@
-# A Contrastive Framework for Neural Text Generation
+# Measuring Reliability of Large Language Models through Semantic Consistency
 **Authors**: Harsh Raj, Domenic Rosati, Subhabrata Majumdar
 
 This repository contains code, data, and other related resources of our paper ["Measuring Reliability of Large Language Models through Semantic Consistency"](https://arxiv.org/abs/2211.05853).
